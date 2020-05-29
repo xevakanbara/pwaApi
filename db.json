@@ -1,24 +1,25 @@
 {
-"products":{
-[{"id":1,"name":"Asian lion","category":"Red"},
-{"id":2,"name":"Beaver, north american","category":"Green"},
-{"id":3,"name":"Southern sea lion","category":"Green"},
-{"id":4,"name":"Javan gold-spotted mongoose","category":"Maroon"},
-{"id":5,"name":"Brindled gnu","category":"Khaki"},
-{"id":6,"name":"Duck, white-faced whistling","category":"Turquoise"},
-{"id":7,"name":"Crested barbet","category":"Khaki"},
-{"id":8,"name":"Eagle owl (unidentified)","category":"Fuscia"},
-{"id":9,"name":"Wallaby, river","category":"Yellow"},
-{"id":10,"name":"Long-tailed skua","category":"Puce"},
-{"id":11,"name":"Striped dolphin","category":"Pink"},
-{"id":12,"name":"Jabiru stork","category":"Teal"},
-{"id":13,"name":"Steller's sea lion","category":"Red"},
-{"id":14,"name":"Common zorro","category":"Fuscia"},
-{"id":15,"name":"Bahama pintail","category":"Orange"},
-{"id":16,"name":"Cormorant, king","category":"Yellow"},
-{"id":17,"name":"Peccary, collared","category":"Fuscia"},
-{"id":18,"name":"Arctic tern","category":"Violet"},
-{"id":19,"name":"Common boubou shrike","category":"Orange"},
-{"id":20,"name":"Cat, native","category":"Green"}]
-}
+"products":
+[
+  {"id":1,"name":"Asian lion","category":"Red"},
+  {"id":2,"name":"Beaver, north american","category":"Green"},
+  {"id":3,"name":"Southern sea lion","category":"Green"},
+  {"id":4,"name":"Javan gold-spotted mongoose","category":"Maroon"},
+  {"id":5,"name":"Brindled gnu","category":"Khaki"},
+  {"id":6,"name":"Duck, white-faced whistling","category":"Turquoise"},
+  {"id":7,"name":"Crested barbet","category":"Khaki"},
+  {"id":8,"name":"Eagle owl (unidentified)","category":"Fuscia"},
+  {"id":9,"name":"Wallaby, river","category":"Yellow"},
+  {"id":10,"name":"Long-tailed skua","category":"Puce"},
+  {"id":11,"name":"Striped dolphin","category":"Pink"},
+  {"id":12,"name":"Jabiru stork","category":"Teal"},
+  {"id":13,"name":"Steller's sea lion","category":"Red"},
+  {"id":14,"name":"Common zorro","category":"Fuscia"},
+  {"id":15,"name":"Bahama pintail","category":"Orange"},
+  {"id":16,"name":"Cormorant, king","category":"Yellow"},
+  {"id":17,"name":"Peccary, collared","category":"Fuscia"},
+  {"id":18,"name":"Arctic tern","category":"Violet"},
+  {"id":19,"name":"Common boubou shrike","category":"Orange"},
+  {"id":20,"name":"Cat, native","category":"Green"}
+]
 }
